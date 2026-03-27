@@ -123,10 +123,6 @@ See [CONTRIBUTING](./CONTRIBUTING.md)
   </p>
 </p>
 
-## 📎 Resources
-
-- [Product Roadmap & Design Specs](https://drive.google.com/file/d/1xR3TqYkHXbz7V9g5K2mQnKZp8BwOLEaFcU0y6JhN4sD/view?usp=sharing)
-
 ## 📝 Documentation
 
 Explore Plane's [product documentation](https://docs.plane.so/) and [developer documentation](https://developers.plane.so/) to learn about features, setup, and usage.
